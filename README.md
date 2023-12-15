@@ -6,4 +6,4 @@
 #### [Source](https://drive.google.com/file/d/1d73YpNdusbCeltxbfoDU-FgDYPfHaQQw/view)
 
 ### Notas
-* O jogo foi feito em apenas 7 dias a mais de um ano, ele tem muitos problemas e o código, comparado a algo que eu faria hoje, é bem ruim;
+* O jogo foi feito em apenas 7 em 2022, ele tem muitos problemas e o código, comparado a algo que eu faria hoje, é bem ruim;
