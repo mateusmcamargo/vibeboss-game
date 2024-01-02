@@ -5,5 +5,9 @@
 #### [Versão de navegador](https://gx.games/games/famhi7/vibe-boss/)
 #### [Source](https://drive.google.com/file/d/1d73YpNdusbCeltxbfoDU-FgDYPfHaQQw/view)
 
-### Notas
-* O jogo foi feito em apenas 7 em 2022, ele tem muitos problemas e o código, comparado a algo que eu faria hoje, é bem ruim;
+### Ferramentas e softwares utilizados
+* Gamemaker (linguagem GML)
+* Aseprite
+
+### Nota
+* O jogo foi feito em apenas 7 em 2022, ele tem muitos problemas e o código, comparado a algo que eu faria hoje, é bem ruim.
